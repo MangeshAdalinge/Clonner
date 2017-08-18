@@ -1,0 +1,6 @@
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\bin\Debug\ServiceTitanTest.exe.config
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\bin\Debug\ServiceTitanTest.exe
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\bin\Debug\ServiceTitanTest.pdb
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\obj\Debug\ServiceTitanTest.exe
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\obj\Debug\ServiceTitanTest.pdb
+C:\Users\mange\OneDrive\Documents\GitHub\ServiceTitanTest\ServiceTitanTest\obj\Debug\ServiceTitanTest.csprojResolveAssemblyReference.cache
